@@ -1,0 +1,85 @@
+MARS, the Bringer of War from The Planets by Gustav Holst.
+
+This turned out to be quite a project. I sequenced 99% of it on an Ensoniq
+VFXsd. The final 8 bars were added after sending it over to the PC using 
+WinJammer. On the VFXsd this is 15 separate sequences tied together as a song.
+
+Here are some notes to try and make porting MARS to your rig a little easier.
+
+Track 5 is the only track that has a patch change in then middle (see below).
+Track 2 has a program change and a sysex at the beginning. All other tracks
+have no patch changes. 
+
+A patch map follows with a brief description of how the patches sound.
+
+Track 0, no cannel assigned: Tempo Changes and Time Signatures.
+
+Track 1, channel 1: Pizzicato (VFXsd)
+
+	This sounds very close to a real string section except that the initial
+	pluck is somewhat subdued.
+
+Track 2, channel 2: Fr Horn 1 (MT-32)
+
+	This is a full-muted French Horn sound. Very rich, it can make your
+	speakers click and pop if used at a velocity of 127.
+
+Track 3, channel 9: Wood Flute (VFXsd)
+
+	This sounds very much like a flute. It can double as a piccolo in the
+	upper range. There is a breathy 'Too' on the attack and a touch of
+	vibrato on the sustain.
+
+Track 4, channel 10: Sq Strings (VFXsd)
+
+	This is a very strong, rough sounding string. There is a motion to the
+	sound and an undertone that sounds like the bow being drawn across the
+	string. It maintians is its character throughout the range.
+
+Track 5, channel 11: Clarinet/PipeOrgan (SQ-R)
+
+	A good clarinet sound. I don't use it much, it gets lost. On this track
+	at 860:000 there is a patch change to Pipe Organ. Use the biggest
+	sounding Cathedral Pipe Organ you've got.
+
+Track 6, channel 12: French Horn (SQ-R)
+
+	This sounds more like a Baritone/Euphonium than a French Horn and I use
+	it as such. With a small stretch of the imagination it could sound like
+	a Trombone.
+
+Track 7, channel 13: Orch Perc * (SQ-R)
+
+	This is a real Timpani sound on the low end and Snare Drum on the high
+	end. All notes F#5 and below are Timpani, G5 and above are snare drum.
+
+Track 8, channel 14: L.A. Brass (SQ-R)
+
+	When played by itself, this sounds like an L.A. Brass section. A little
+	too heavy on the Chorus effect. When played in ensemble it cuts through
+	just enough to be pretty convincing as a Trumpet section.
+
+Track 9, channel 15: Double Reed (VFXsd)
+
+	A Contra-Bassoon on the low end, Basson in the middle and an Oboe on
+	the high end. There is a touch of vibrato on the sustain here too.
+
+Track 10, channel 16: Trombone-1 (VFXsd)
+
+	This sounds much better than the MT-32 "Trombone". It's really a
+	Trumpet sample that has been transposed and tweeked. But it does very
+	nicely.
+
+The ironic thing about these sounds is that the brass sounds tend to be the
+weakest ones. That is, it takes more volume/velocity to get the sound to a
+level even with the string or woodwind sounds. I've made some small attempts at
+equalizing them.
+
+Watch out for the sysex message on track 2, it mutes all parts except Part 1
+on channel 2 on the MT-32.  If you're using an MT-32 related synth as your
+only instrument then filter out the sysex or you will only hear french
+horns <g>.
+
+I'd be interested in any comments that you'd like to make.
+
+Jack Hines, 72321,357

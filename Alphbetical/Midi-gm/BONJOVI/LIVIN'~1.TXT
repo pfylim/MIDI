@@ -1,0 +1,31 @@
+Subj:  GMIDI: Livin' on a Prayer
+Date:  January 22, 1996
+From:  Guitar5151
+
+File:  B_JOV_G.MID (60558 bytes)
+DL time (14400 baud): < 1 minute
+Download count: 312
+
+AUTHOR:    Scott M. Evans
+EQUIPMENT: MIDI Interface & Multitimbral Synth, or MIDI-Compatible Sound Card
+NEEDS:     MIDI Sequencer Software or .MID File Player
+
+Keywords:  Evans, Guitar5151, Bon Jovi, Rock, 90's, GM, General, MID, FD
+Type:      Freely Distributed
+
+Total Instruments:  12 + Drums
+Sequenced For:     General MIDI 
+Playing Time:      4:11
+
+This is an excellent sequence of Jon Bon Jovi's "Livin' on a Prayer."  This
+file is in Standard MIDI (Type 0) format.
+
+Editor's Note: Type 0 files are single-track files, but that track can
+contain data on all16 MIDI channels. When loaded in most sequencers, data for
+each channel is split to individual tracks, but none of those tracks will be
+named.  Please check to see if you sequencer, or sound card will playback
+this type file before downloading.
+
+Note:  This sequence can be used with non-GM synths by loading it into a
+sequencer and re-assigning the Program Change and MIDI Channel data to meet
+the requirements of your equipment.

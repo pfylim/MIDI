@@ -1,0 +1,30 @@
+Phantom of the Opera
+Music by Andrew Llyod Webber
+Midi Arrangement by Akio Nagatomi
+October 15, 1992
+
+This is a straight-forward arrangement of the title track from Andrew Lloyd-Webber's musical hit, "The Phantom of the Opera."  This is my first serious attempt at MIDI arrangement.  Work was done on a Roland LAPC-1 sound card (MT-32 compatible), using Ballade 2.51 and a Casio CPS-70 digital piano. Final touches were done in a great little shareware package, WinJammer 2.21, written by fellow Canadian Dan McKee.
+
+Suggested track list is as follows:
+
+Tr:	Ch:	Patch:	Name:		Description:
+===	===	======	=====		============
+00	-	-	-		-
+01	-	-	-		-
+02	01	001	Piano 1	 	Keyboard
+03	02	015	Pipe Org 3	Main Pipe organs
+04	03	006	Elec Piano 3	Bass
+05	04	027	Syn Brass 3	String Section
+06	05	039	Warm Bell	Vocals:  Phantom
+07	06	046	School Daze	Vocals:  Christine
+08	07	044	Echo Pan	Vocals:  Background Voices
+09	08	123	Orche Hit	Orchestra
+10	09	113	Timpani		Percussion
+11	10	-	Drum&SE		Drums and Sound Effects
+12	-	-	-		-
+13	-	-	-		-
+14	-	-	-		-
+
+Experiment to your heart's content, and enjoy!  Comments are always welcome.  I can be reached at 75070,3312 on CompuServe.
+
+Akio

@@ -1,0 +1,11 @@
+Theme for Law and Order.
+
+Always thought this was a cool theme and a challenge to 
+reproduce with midi. Since most Multi timbral Synths have 
+great plucked bass sounds you should have no trouble 
+finding the right sound for this on your midi system.
+I apologize for this not being in midi standard. All I 
+could do is just give you the instrument's name.
+I invite any of you to fix it up if you like.
+Enjoy
+Robb Scalise

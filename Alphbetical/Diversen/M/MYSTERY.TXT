@@ -1,0 +1,23 @@
+Theme from PBS's "MYSTERY" by Normand Roger
+
+Sequence (c) 1992 by Bob Pomicter, Studio 46 Music Study Center
+Arranged for Roland Sound Canvas.
+
+Notes:
+
+MYSTERY.ZIP contains this text file, MYSTRYGS.MID and two additional
+files: MYSTERY.SCD (for Jeff Cazel's SONGCANVAS V.2) and
+MYSTERY.SYX for midi-ex loaders (such as Cazel's SYSEX).
+
+It is *strongly* recommended that the file be played using the midi-ex
+data since there are some major changes to the program patches (esp.
+the Canvas's Special FX). 
+
+Additionally, the special FX are NOT programmed into the sequence (only
+the orchestral instruments are) so without the SCD or SYS-ex data users
+will only hear default piano sounds in the FX lines.
+
+Hope you enjoy "Mystery"!
+Bob
+
+

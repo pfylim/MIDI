@@ -1,0 +1,128 @@
+No. 4c, "Cha-Cha" from the Dance at the Gym sequence, and
+No. 5, "Maria" from Leonard Bernstein's WEST SIDE STORY.
+Source Score: WEST SIDE STORY, Complete Vocal Score
+G SCHIRMER/HAL LEONARD Cat. #HL50338100  (c)1959
+
+Electronic realization and sequence for the Roland Sound Canvas
+by Bob Pomicter. (c)1992 Bob Pomicter/Studio 46. Freeware.
+Contact on AOL:XTRO1;  GEnie:XTRO;  CompuServe:73217,24
+Your feedback and suggestions are most welcome!
+
+THIS SEQUENCE MAY BE DISTRIBUTED FREELY BUT USED FOR NON-COMMERCIAL
+PURPOSES ONLY. PLEASE INCLUDE WSIDE4C5.TXT AND ECHO2.CVS (SCD) IF YOU
+UPLOAD TO ANOTHER BBS. Thank you!
+
+Realization/Orchestration
+-------------------------
+
+This sequence has been written specifically for the Roland Sound Canvas
+(SCC-1, SCC-55, etc.) As such, it contains many program changes, sys-ex
+messages (controllers, etc.) that take advantage of the SCC's 24 note
+polyphony. Other soundcards/synths may choke-up on the demands made
+of available polyphony. Both excerpts were realized for an electronic
+orchestra, created from a piano reduction and using the DGG recording
+for orchestration tips. "Maria" has be re-arranged for a 12-part
+string orchestra. Hope you enjoy!
+
+
+Adaptation for other Synths
+---------------------------
+
+Demand for polyphony is high in this sequence. A minimum of 16 voices
+is recommended. Should it become necessary to delete tracks, do so
+with caution. In "Maria", in particular, there is extensive "hocketing"
+of strings lines for stereo ensemble effect. The trick to reducing the
+sequence is to find parts that are "doubled" in the tracks.. but use
+caution! What may be a doubled part for 8 measures may not be a doubled
+part for the next 12 measures! The techniques makes for a nasty job
+in adaptation for other synths, but the effect is well worth it on the
+Sound Canvas.
+
+Program Patches Used
+--------------------
+
+WSIDE4C5 uses the following orchestration: (note that program numbers are
+given as they appear in the SEQUENCE. Actual instrument numbers are
+one higher on the Canvas.)
+
+0 - Acoustic Piano         47- Timpani            88- Fantasia
+11- Vibraphone             48- Strings            99- Atmosphere
+12- Marimba                49- Slow Strings      103- Star Theme
+40- Violin                 50- Synth Strings I
+45- Pizzicato Strings      68- Oboe
+
+Additionally, the following GS Percussion (Channel 10) is used:
+
+Note # 39- Castanets             Note # 54- Tambourine
+Note # 57- Concert Cymbal 1      Note # 76- Woodblock
+Note # 59- Concert Cymbal 2      Note # 81- Triangle
+
+GS Owners REQUIRE a PROGRAM NUMBER of 48 on Channel 10
+to put the Canvas into the "Orchestral Drum Set" Mode.
+Other sound card owners should delete this.
+
+
+Finding the Program Changes
+---------------------------
+
+All program changes, out of necessity, are imbedded in the MIDI lines
+of each track. Note that in most cases TWO tracks are assigned to each
+CHANNEL. (For hocketing). Duplication of consecutive program numbers may
+seem unnecessary, but due to this technique, are REQUIRED. To adapt another
+synth for this sequence, I would suggest you first find the appropriate
+substitute instruments for those mentioned above. Then, systematically,
+change the necessary program patches using the chart below:
+
+TRACK#	CHANNEL#	BAR#	PATCH#
+1	1		33	48	
+2	1		5	12
+2	1		22	11	
+2	1		72	49
+2	1		73	48
+3	2		5	45
+3	2		72	49	
+4	2		no program patches
+5	3		19	0
+5	3		80	49
+6	3		no program patches
+7	4		19	50
+7	4		33	48
+7	4		48	48
+7	4		50	45
+7	4		52	45	
+7	4		78	88
+8	5		5	99
+8	5		79	40
+9	5		5	99
+9	5		56	103
+10	6		1	88
+10	6		11	88
+10	6		22	88
+11	6		5	103
+11	6		13	103
+12	7		22	68
+12	7		64	47
+13	-		unused
+14	8		19	48
+14	8		55	48
+15	8		25	49
+16	9		33	48
+17	9		33	48
+
+
+Additional Considerations
+-------------------------
+
+Reverb settings should be raised (around 70-80 on the Sound Canvas) to
+provide more depth. The file ECHO.SCD, included, may be used to make
+these adjustments via Jeff Cazel's SONGCANVAS Shareware. (Version 1.2
+or higher is required). If you own V1.0 of SongCanvas, you may use the
+older format ECHO.CVS file from the WSIDE1.ZIP, previously uploaded.
+
+Hope that you enjoy the sequence!
+
+Bob Pomicter
+
+ 
+
+

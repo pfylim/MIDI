@@ -1,0 +1,31 @@
+           -----------------------------------------------
+           Fresh Aire II     "Fantasia"      by Chip Davis
+           -----------------------------------------------
+
+This is a contemporary piano duet. I have sequenced each of the 4 hands
+onto a separate MIDI channel (1 through 4) so that they could be sent to
+different piano modules; 1 & 2 being for the more treble piano and 3 & 4
+for the more bass piano.
+
+If you use a single piano source, it must be capable of about 16 note
+polyphony or you will notice some note clipping. Additionally, the piano
+patch used should be able to sustain for a reasonable amount of time or
+there will be voids at a few places within the sequence.
+
+In addition, each piece within the entire work is separated onto its own
+group of 4 tracks. The following are the full titles of each piece:
+
+              Chorale             (The Theme)
+              Door I              Interrupted Thought
+              Door II             The Ugly Head of Greed
+              Door III            Pride
+              Door IV             Relaxation
+              Door V              Frenetic Energy
+              Door VI             Nostalgia
+              Door VII            Thermal Inversion
+              The Fantasy
+
+                           Enjoy!
+                                       --- Doug Fetter
+
+

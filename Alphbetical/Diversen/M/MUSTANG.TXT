@@ -1,0 +1,50 @@
+
+  MUSTANG.MID : "Mustang Sally " a la Committments (programmed by Delia Layton)
+
+  This song was developed using Cakewalk Professional V3 using a Proteus 1XR
+  with Proteus 2 addition. The file is in MFF and does not contain SYSEX
+  messages to set up the Proteus. If you require the WRK version mail us
+  and we will upload it.
+
+  The file contains CONTROLLER messages (generally 7 to set individual 
+  volumes and sometimes 10 to set panning and 1 to set effects - especially
+  Leslie for the organ).
+
+  It also contains PROGRAM (patch) message which can be removed or amended as
+  required.
+
+  TRACK USAGE :
+
+   1 : tenor sax
+   2 : piano
+   3 : bass
+   4 : drums (setup information)
+   5 : brass
+   6 : voices, harmonies
+   7 : organ - with leslie
+   8 : guitar (Proteus has the best sounds around!)
+   
+   then the drum sounds used are individually split for your convenience, all
+   using MIDI CHANNEL 5, and on the following tracks
+
+   9 : crash
+   10 : kick
+   11 : kick2
+   12 : snare
+   13 : rimshot
+   14 : open hi-hat
+
+   Enjoy it ans please drop a line if you liked it. Much love and devotion
+   went into this (and the 200 or so others we have done to date).
+
+   Programmed by Delia Layton with assistence from Roger Layton (piano)
+
+   CIS Userid: 74660,2154
+
+   PO Box 72267
+   Parkview
+   2122
+   South Africa
+
+   (TEL) +27-11-788-5938
+   (FAX) +27-11-442-5529

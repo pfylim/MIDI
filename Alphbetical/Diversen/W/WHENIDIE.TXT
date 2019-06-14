@@ -1,0 +1,59 @@
+And When I Die" by Laure Nyro as performed by Blood Sweat & Tears.
+
+Vocal Rehersal Track		Ch 8
+Bass Jim Fielder		Ch 1
+Piano Dick Halligan		Ch 2
+Rinky Tink Piano		Ch 2
+Harmonica Fred Lipsius		Ch 3
+Trumpet 1 Lew Soloff		Ch 5
+Trumpet 2			Ch 6
+Trombone Jerry Hyman		Ch 7
+Tenor Sax Fred Lipsius		Ch 4
+Yamaha Drum Track merged on one track ch 16
+	mute or delete this track if you don't have Yamaha Drums
+Roland Kick Bass Drum		Ch 10
+"	Snare with snare sound	Ch 10
+"	Snare 2 		Ch 10
+" 	High Hat Open		Ch 10
+
+Tempo Map
+1-5	60
+6-17	138
+18-66	252
+67-76	138
+77-125	252
+126-134	138
+135-143	252
+145-151	138
+152-159	252
+160-161	60
+162-167	66
+168-175	252
+
+Time Signature
+4/4 fo all measures except measure 161 which is 2/4.
+
+Key Signature 
+Concert key "A maj".
+
+Pitch bend 
+	Used on Harmonica, trumpets and trombone.
+
+Modilation Wheel
+	Used on Harmonica.
+
+Micro Tune
+	Trumpet 1 +3
+	Trumpet 2 -1
+	Trombone  -2
+
+Pan
+	Center 
+		Vocal,Bass,Piano
+	Left
+		Trumpet 2, Trumpet 1
+	Right	
+		Sax, Trombone
+ Enjoy!
+
+	

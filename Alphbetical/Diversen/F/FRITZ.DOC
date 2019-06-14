@@ -1,0 +1,56 @@
+ 
+                  @FritzDigital@--Standard Midi Files
+
+    The enclosed file(s) are type 1 standard midi file(s) [.MID]
+    and should load into any software that accepts that format.
+
+  Drum Sound/Midi Note Assignment ... Equal to the Yamaha factory defaults
+         Midi Note Number 60 = Cakewalk C5 = Yamaha C3 = Roland C4
+  ========================================================================
+  Bass--A3(45)      Tom1--F4(53)     HHOpen--B4(59)     Tamborine--A#4(58)
+  Snare--E4(52)     Tom2--D4(50)     HHClose--A4(57)    Shaker--G#4(56)
+  Ride(E)--D#5(63)  Tom3--C4(48)     HHPedal--D1(14)    Cowbell--G4(55)
+  Ride(C)--D5(62)   Tom4--B3(47)     HH«Open--D#1(15)   Claps--F#4(54)
+  Crash--C5(60)     Rim--D#4(84)     Bongo(H)--G#5(68)  Bongo(L)--G5(67)
+  E.Tom1--G3(43)    E.Tom2--F3(41)   E.Tom3--E3(40)
+  ========================================================================
+
+  1) All drum notes are on midi channel #1. It is assumed that the volume
+     of your drum sounds are balanced in relation to each other. If not,
+     you may have to adjust the velocity of individual drums to taste. Some
+     drum machines or samplers allow you to balance volumes independent of
+     later velocity information. In general, all drum velocity ranges are
+     centered around v=80.
+
+  2) All bass notes are on midi channel #2. All bass velocity ranges are
+     centered around v=80. You will have to set your synth, sampler, etc.
+     with the correct sound prior to beginning the sequence or insert
+     program change messages at the appropriate location.
+
+  3) If a song has a keyboard or other part besides drums and bass, it is
+     usually on midi channel #4. If it has two extra parts, they will
+     usually appear on channels #4 and #5, etc.. All velocity ranges are
+     centered around v=80. You will have to set your synth, sampler, etc.
+     with the correct sound prior to beginning the sequence or insert
+     program change messages at the appropriate location.
+
+  4) These sequences are essentially rhythm section sequences. Their original
+     purpose was to back up a guitar player. In other words, if the original
+     song had a guitar part, there WILL NOT be a comparable part in the
+     sequence. However, in some cases keyboard parts have been included to
+     help fill things out.
+
+  5) Where needed, songs have a 1-bar lead-in which is sounded by the HHPedal.
+
+  6) In the secondary track name entries, m = midi channel and n = number of
+     simultaneous notes this track requires.
+
+     ----------------------------------------------------------------------
+
+     If you enjoy this sequence and/or would like to obtain more of them,
+     call me and tell me so.  I would like to trade MIDI related ideas,
+     techniques and files with you.
+
+                              @FritzDigital@
+                            Voice...314-8453875
+

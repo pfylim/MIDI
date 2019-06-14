@@ -1,0 +1,19 @@
+This song is "Axel F" by Glenn Frey.  It is often known as the theme to the
+movie "Beverly Hills Cop."  I created this version for the Roland MT-32 with
+the Ballade 2.5 composer, although it sounds better on the LAPC-1 or the
+CM-32L.  I didn't use sheet music or anything to enter the notes.  I just
+figured it out by ear (thanks to Scott Benson for the tape).  I have included
+both Ballade 2.x and standard type 1 MIDI file formats, although there aren't
+any major differences between these versions.  Since Ballade uses an intricate
+table of contents system to manage files, you must use one of 2 methods to load
+the song.  First, if your version of Ballade comes with a program called
+MAKECONT.EXE, then you can use it to rebuild one of your directories and add
+the song to the table of contents.  If you do this, make sure the song file is
+in the directory you want to rebuild first.  Second, if you don't have this
+program, then you must go to the files section within Ballade and save any song
+under the name "Axel F".  Once you have saved a song under this name, exit to
+DOS.  A file named AXELF__0.SNG should have been created.  Replace this file
+with the file of the same name that I have included.
+
+ -Jason Fourier
+

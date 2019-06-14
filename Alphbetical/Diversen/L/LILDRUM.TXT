@@ -1,0 +1,101 @@
+The Little Drummer Boy
+
+Ancient Traditional Christmas Carol
+written in 1958 by Katherine Davis, Henry Onorati
+and Harry Simeone
+
+Sequenced for Roland Sound Canvas by Mark Lutton, 1992.
+
+Come they told me parum pum pum pum,
+A new born King to see, parum pum pum pum,
+Our finest gifts we bring parum pum pum pum,
+To lay before the King parum pum pum pum,
+		rum pum pum pum,
+		rum pum pum pum,
+So to honor Him pa rum pum pum pum,
+When we come.
+
+Little Baby parum pum pum pum,
+I am a poor boy too, parum pum pum pum,
+I have no gift to bring parum pum pum pum,
+That's fit to give our King parum pum pum pum,
+		rum pum pum pum,
+		rum pum pum pum,
+Shall I play for you? parum pum pum pum,
+On my drum.
+
+Mary nodded parum pum pum pum,
+The Ox and Lamb kept time parum pum pum pum,
+I played my drum for him parum pum pum pum,
+I played my best for Him parum pum pum pum,
+		rum pum pum pum,
+		rum pum pum pum.
+ 	[ Two bar drum solo ]
+Then He smiled at me parum pum pum pum,
+Me and my drum.
+
+              -----------------------------------------
+
+This beautiful traditional carol has always been a favorite with
+musicians.  Based on a poignant old legend that dates back to
+the early Television Era, it relates the story of a very young
+percussionist so dedicated to his art that he practices his
+rudiments constantly, even while speaking.  Visiting the newborn
+future King of Kings, the nameless drummer boy is embarassed
+that he has no material possession worthy of a royal gift.  Instead
+he offers to display his musical skills.  The Baby accepts, for to
+give of oneself is the best gift of all.
+
+A formidable musicological problem faces the arranger of this carol:
+What would the drummer boy's solo have sounded like?  Indeed,
+what sort of drum would he have played?  Possibly something like
+the modern tabla, dool or conga, although a conga is quite heavy
+for a little boy to carry especially on a last-minute impulsive trip.
+Perhaps a tambourine or sistrum.  As for the music,  ancient
+Middle East solo drum music was probably similar to the traditional
+music that survives in neighboring cultures today.  Certainly fit for
+a King, but too sophisticated, complex and lengthy for Western
+pop-oriented ears.
+
+To update the story, I imagine the Drummer Boy as a gifted student
+who has mastered the rudiments, jazz, rock, and Latin percussion.  Now
+he is learning classical music and his favorite piece is (what else?)
+Ravel's Bolero.  During the break in measures 75 and 76, in typical
+6-year-old enthusiasm, he demonstrates them all at once!  You may want
+to mute one or more (or all) of tracks 11, 12, 13, and 14, but I like
+to keep them all and make a Joyful Noise Unto The Lord.
+
+                                                  --- Mark Lutton, 11/1/92
+
+Notes on the patches:
+
+This is was arranged for the Roland Sound Canvas.  No system-exclusive
+data was used.  Drums are on Channel 10; all other instruments are on channels
+1 to 8.  There are a lot of notes and I'm sure I occasionally exceed the 
+24-voice limitation of the Sound Canvas (although I don't think I have more 
+than 22 notes at once -- but some instruments need more than one voice).
+
+Track 1 is Snare Drum on channel 10 and the only note is D3 (38), Snare Drum.
+Track 2 is Flute on Channel 1.  One note at a time.
+Track 3 is Acoustic Bass on Channel 2.  One note at a time.
+Track 4 is Pizzicato Strings on Channel 3.  This track has up to 5 or 
+      6 notes at a time.
+Track 5 is Oboe on Channel 4.  One note at a time.
+Track 6 is Clarinet on Channel 5.  One note at a time.
+Track 7 is Strings on Channel 6.  3 or 4 notes at once.
+Track 8 is Glockenspiel, one note at a time, on Channel 7.
+Track 9 is Trumpet on Channel 8, two notes at once.
+Track 10 is Violin on channel 9, 3 or 4 notes at once.
+Track 15 is Church Organ on Channel 11, 5 or 6 notes at once.
+All the rest of the tracks are on Channel 10.
+Track 11 is Parade Drums (rudiments):  Db4 (49), Crash Cymbal,
+      E3 (40), Snare Drum 2; C3 (36), Kick Drum.  (I would have used Concert Bass
+     Drum but it's not available without selecting the non-default patch.)
+Track 12 is Rock & Roll Drums:  Tom-Toms of various sizes at B3 (47),
+     A3 (45), G3 (43), and F3 (41);  Snare Drum at D3 (38) and Kick Drum at
+     C3 (36).
+Track 13 is Congas at Eb5 (63) and E5 (64), and Bongos at C5 (60) and Db5 (61).
+Track 14 is Jazz Drums: Ride Cymbal at A3 (45), Snare Drum at D3 (38) and
+     Kick Drum at C3 (36).
+Track 16 is Crash Cymbal at Db4 (49).
+ 

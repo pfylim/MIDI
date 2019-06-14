@@ -1,0 +1,37 @@
+"God Bless the Child" by Authur Herzog and Billie Holiday.
+Vocal Rehersal Line
+Bass
+Organ
+Piano
+Trumpet 1
+Trumpet 2
+Trombone
+Tenor Sax
+Alto Sax
+Harmonica
+Split Drums on Named tracks in standard Roland setup.
+In the key of G Major
+134 measures
+Measures      Time Sig	Tempo
+1-2		4/4	66
+3		2/4	66
+4		4/4	66
+5-28		12/8	99
+29-36		4/4	80
+37		2/4	80
+38-45		12/8	80
+46		2/4	80
+47-110		4/4	204
+111-118		4/4	80
+119		2/4	80
+120-127		12/8	80
+128		4/4	80
+129		4/4	66
+131		2/4	66
+132-133		4/4	66 Retard
+
+Measure 1 added for "test Middle C" note.  Delete this measure.
+For Pitch Bend set instruments for two 1/2 tones max change.
+Tune Trumpet slightly sharp, Trumpet 2 slightly flat and less brassy.
+The High G in measure 124 of the Harmonica needs to modulated to sound right.
+

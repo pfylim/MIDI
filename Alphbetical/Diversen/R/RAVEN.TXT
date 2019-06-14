@@ -1,0 +1,35 @@
+                      *******Flight of The Raven*******
+                                     BY
+                               Paul Stillwell
+
+  As you all know Roland's GS format places instruments with similar sounds in
+the same address spaces. This piece was composed using Roland's SCC-1 sound-
+board. Some of the sounds that were used may not be exactly the same on all
+of the GS modules therefore I am including a list of instruments with a brief
+description of each where I feel the need. I have also included a sysx file
+that was created using the SongCanvas by Jeff Cazel. Load this into your
+module BEFORE you play the song, it sets up channel 16 with a multi-patch
+for the synth-lead part. 
+  I use Cakewalk by Twelve Tone Systems as my sequencer and I have also 
+included the .WRK file for your viewing pleasure. If anyone cares to build on 
+this file please do so and let me know when you upload it so that I can take 
+a listen. Why? Because it just might be interesting!!! I can be reached 
+through E-mail, [71552,2312], for comments questions or input. Please feel
+free to distribute these files among your friends.
+
+                               Thanx for listening,
+                                                   Paul
+
+  Instrument       Channel
+  **********       *******
+  Bass                1
+  Calliope            2
+  C-AAAAHS            3
+  C#-AAAAHS           4   This is actually a different patch from the C AAAAHS
+                          It sounds a bit more breathy.
+  Distortion Guitar   5
+  Guitar Harmonics    6
+  High Hat           10
+  Syn Lead           16
+
+

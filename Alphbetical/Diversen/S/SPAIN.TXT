@@ -1,0 +1,6 @@
+     Spain by Chick Corea.  Includes Chick's solo as done on his
+"Light as a feather" album.  I've included drum tracks for both
+Midi and Yamaha TG33 formats.  The TG33 format is the original and
+I don't know how the Midi drum track fared through the
+translation.  This is my first upload, so let me know what you
+think.

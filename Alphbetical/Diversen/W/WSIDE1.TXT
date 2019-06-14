@@ -1,0 +1,70 @@
+
+Prologue to "West Side Story"
+Sequenced 8/92 - 9/92 for the Roland GS Sound Canvas
+(c)1992 Bob Pomicter, Studio 46. 
+Distributed as FREEWARE. For non-commercial use only.
+Contact: AOL:Xtro1; GEnie:Xtro; CUS:73217,24
+
+Source score: WEST SIDE STORY, complete Vocal score;
+Publisher: G Schirmer, Inc./Hal Leonard  Cat.# HL50338100
+Music: Leonard Bernstein (c) 1959.
+
+
+ORCHESTRATION/REALIZATION for the Sound Canvas
+----------------------------------------------
+
+Working from the vocal score/piano reduction, there was no official
+orchestration given, however, a reasonable "synth" orchestra was
+developed based on repeated listenings of the DGG recording. There are,
+however, certain liberties which I have taken to assure a better
+balance of the "electronic" orchestra, (e.g. "clarinet" parts do not
+make use of the GS's brash clarinet sound). The following guidelines
+may be used to approximate the GS orchestration on other synths:
+Please not that instrument sounds appear as part numbers showing on the
+GS module. They are consistently 1 patch no. less in the sequence.
+
+Track#  Initial Patch          Patch Changes (w/ measure nos.)
+  1     #12- Vibes
+  2     #12- Vibes
+  3     #94- Metal Pad         @ms110 #14- Xylophone
+                               @ms111 #94- Metal Pad
+                               @ms120 #14- Xylophone
+                               @ms122 #94- Metal Pad
+                               @ms139 #56- Orchestral Hit
+  4     #94- Metal Pad
+  5     #1 - Acoustic Piano
+  6     #1 - Acoustic Piano
+  7     #46- Pizzicatto
+  8     #66- Alto Sax
+  9     #66- Alto Sax
+  10    #89- Fantasia          @ms100 #58- Trombone
+  11    #89- Fantasia          @ms42  #58- Trombone
+                               @ms90  #58- Trombone
+                               @ms63  #63- Synthetic Brass1
+  12    #104-Star Theme        @ms100 #57- Trumpet
+  13    #104-Star Theme
+  14    #49- Strings
+  15    #49- Strings
+  16    #51- Syn. Strings1
+  17    #51- Syn. Strings1     @ms 28 #17- Organ1
+  18         Hand Claps, Open and Closed HiHat, Bass Drum, Snare Drum
+  19    #47- Tympani
+
+
+
+Additional Considerations:
+
+Included in this zip file is a bank called ECHO.SCD for use with Jeff
+Cazel's SONGCANVAS 1.2 Editor/Librarian. While not necessary to use it, owners
+of the SongCanvas should load and transmit the sys-ex. messages within
+this bank. Alternately, users may manually change the Reverb settings to
+HALL 2 and about a value of 74 for depth, send and feedback for a nicer
+and less intimate "orchestral" feel. 
+
+Enjoy!
+Bob
+
+PS. PLEASE do not distribute the .MID file of this sequence without
+the accompanying notes.txt and Echo.SCD files. Thank you.
+
+       

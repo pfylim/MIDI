@@ -1,0 +1,25 @@
+Songtitel: 60er-jaren-medley ...........
+Auteur/Zanger: diverse...................
+met:	Big bamboo (herkenningsmelodie)
+	It's a beautiful day
+	Cicilia
+	Hitchin a ride
+	Ha Ha! said the clown
+	Mighty Quinn
+	I did what I did for Maria
+	Big Bambo
+Tempo: 128...............................
+Instrument     Midikanaal     Track
+-----------------------------------------
+Reset          Any            1
+Mute Gitaar    2              2
+Gitaar         3              3
+Fluit          4              4
+Bas            5              5
+Brass          6              6
+ODGitaar       7              7
+DSGitaar       8              8
+Piano          9              9
+Drums          10             10 t/m 17
+Timpani        14             18
+Strings        16             19

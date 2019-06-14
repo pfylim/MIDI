@@ -1,0 +1,26 @@
+Songtitel: 60er-jaren-medley ...........
+met:	Big bambo (herkenningsmelodie)
+	Agadou
+	Shame and scandal in the family
+	Hands up
+	Paloma Blanca
+	Black is black
+	Sun of Jamaica
+	Big Bambo
+Auteur/Zanger: diverse...................
+Tempo: 128...............................
+Instrument     Midikanaal     Track
+-----------------------------------------
+Reset          Any            1
+Mute Gitaar    2              2
+Gitaar         3              3
+Fluit          4              4
+Bas            5              5
+Brass          6              6
+ODGitaar       7              7
+DSGitaar       8              8
+Piano          9              9
+Drums          10             10 t/m 19
+Orgel          13             20
+Timpani        14             21
+Strings        16             22

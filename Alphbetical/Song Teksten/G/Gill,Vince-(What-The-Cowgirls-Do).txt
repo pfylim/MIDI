@@ -1,0 +1,54 @@
+           WHAT THE COWGIRLS DO by: VINCE GILL
+	 measure     Programmed by:Roy Hyland
+
+		    
+intro   3       |C|'/.|'/.|'/.|'/.|'/.|'/.|'/.|
+
+		C                       
+v1              HAVE YOU EVER BEEN DOWN TO TEXAS? DOWN AROUND SAN ANTONE?
+		C
+		THEY LOVE TO GO ALL NIGHT AND TREAT YOU RIGHT,
+		C
+		AND PARTY TIL' THE COWS COME HOME.
+
+		F                             G
+ch1     19      I LOVE IT WHEN THEY LET THEIR HAIR DOWN,
+		F                     G
+		DANCIN' REAL CLOSE TO YOU.
+		F                     G                          C
+		YOU KNOW I'M A SUCKER BABY, OF WHAT THE COWGIRLS DO.
+		C
+		OF WHAT THE COWGIRLS DO.
+
+		C
+v2      29      THEY AIN'T NO DIFFERENT THAN?????               
+		C
+		THEY AIN'T AFRAID TO STAY UP TIL' DAWN.
+		C
+		THEY LOVE TO CUT A RUG AND CHUG-A-LUG,
+		C
+		LONGKNECKS UNTIL THE MONEY'S ALL GONE.
+ch2     37
+
+instr.  47      |C|'/.|'/.|'/.|'/.|'/.|'/.|'/.|F|G|F|G|F|G|C|'/.|'/.|'/.|
+
+		C
+v3      65      WELL THERE'S COWGIRLS ALL ACROSS THE COUNTRY,
+		C
+		FROM BATON ROUGE TO BANGLE MAIN,
+		C
+		IT AINT' A'HARD TO SEE IT'LL BE THE DEATH OF ME,
+		C
+		THEY'RE GONNA' DRIVE MY LITTLE HEART INSANE.
+ch3     73
+ch4     81
+		C
+tag     88      WHAT THE COWGIRLS DO. WHAT THE COWGIRLS DO.
+		C
+		WHAT THOSE COWGIRLS DO. 
+
+instr.  95      |C|'/.|'/.|'/.|'/.|'/.|'/.|'/.|'/.|'/.|'/.|'/.|'/.|'/.|'/.|
+
+		|C|
+end     111                       
+			

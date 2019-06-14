@@ -1,0 +1,17 @@
+This work is JONATHAN'S RAG, an original composiution by
+Charlie Kreitzberg.  There is created a standard MIDI (.MID) file and a 
+a Cakewalk (.WRK) file.
+
+The arrangement does not require any unusual instruments and
+should be easily ported to any synth.  I used a Proteus/2,
+Alesis D4 (percussion) and Yamaha pf85 (Piano).
+
+If you enjoy this rag, you might also want to look at SYNTHRAG.ZIP, 
+HAWKINS.ZIP and LEVI.ZIP in the library.
+
+I look forward to your comments on the MIDI forum or by 
+E-MAIL (72447,1537)
+
+This composition is Copyright 1993. All Rights Reserved.
+
+

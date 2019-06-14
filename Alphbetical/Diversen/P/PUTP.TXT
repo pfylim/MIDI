@@ -1,0 +1,20 @@
+                                PICK UP THE PIECES 
+
+1/5/93
+
+Sequenced by Chris Pangikas 71716,160
+
+This file was created with Voyetra's Sequencer Plus Gold and will run on a 
+Sound Canvas or any Synth that conforms to the Midi GS note and patch 
+assignment standards.  
+
+Enjoy
+
+   FILES INCLUDED:
+   PUTP.SNG - Sequencer Plus
+   PUTP.MID - Standard Tpye 1 File
+   PUTP.WRK - Cakewalk Pro for Windows ver 1.03
+   PUTP.TXT - This File
+
+
+

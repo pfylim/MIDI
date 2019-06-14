@@ -1,0 +1,34 @@
+Sergeii Prokofiev, Piano Concerto #2, Fourth movement
+
+Original MIDI file by Gary Goldberg, National Capital Amiga Users Group
+
+Adapted for Roland Sound Canvas, March 1993, Bob Pomicter
+
+NOTES:
+
+      I first downloaded this file by Gary Goldberg about two months ago
+and being that this composition is my absolute favorite piano concerto,
+I set out to work on conversion for the Roland Sound Canvas line in my
+home setup. 
+
+      Gary's original file was for two synths (I believe one was a
+Proteus), so to convert over to GS took some planning. Aside from the
+obvious repatching, GS percussion conversion, etc. I had to merge certain
+tracks together in order to "squeeze it all up" into the 16 channel
+GS Sound canvas.
+
+      Additionally, the included Sysex file was created to blend things
+together a bit better (I'm still not happy with the wind sounds on the
+canvas, which are a bit harsh). 
+
+      A new tempo map and velocity adjustments were made for what I
+guess you'd call my "conducting" of the piece.
+
+      Many thanks to Gary for permission to adapt this original sequence
+for the Roland Sound Canvas line!
+
+
+Hope you enjoy!
+
+Bob Pomicter
+

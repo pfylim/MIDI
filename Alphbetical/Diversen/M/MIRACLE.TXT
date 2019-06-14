@@ -1,0 +1,51 @@
+Tampa, Florida
+November 15, 1992
+
+        Having finally learned that you can't do a decent vocal lead on a
+keyboard, I did not provide one here. This is a karaoke sequence.
+        It's "All I Need Is a Miracle (Mike & the Mechanics)," played in real
+time, and then forced into a structure by Cakewalk Professional's
+"Fit/Improvisation" facilities. The vocal begins at the 29th measure. An 8-bar
+instrumental bridge occurs at the 99th bar.
+        For SY77 users, a multi and a bass patch are provided in the
+View/Sysex section of the Cakewalk version of this upload. If that is your
+only synth, you may wish to change the Millenium patch to something else,
+because it's a real polyphony gobbler. 
+        You will probably want to mute the "wind noise" track unless you have
+a Proteus or some other instrument with wind noise in it. For Proteus /1
+users, the wind noise patch is also included in the View/Sysex section of the
+Cakewalk upload.
+
+        Patches:
+        1). Millenium is a complicated, evolving pad with bass AND high note
+action.
+        2). Nasty Saw is an analog synth that does some sustaining high notes
+(as if it were strings) and also plays some chords.
+        3). Mute guitar. The controversy around here is whether this mute
+guitar part works or not. You'll want to mix it pretty far back, or maybe even
+bag it altogether.
+        4). Harmonic synth. This is a plucked synth sound that plays the first
+four bars of the bridge solo.
+        5). Alto sax plays the next four bars.
+        6). PianoBell is the traditional synth/pop bell sound. If you don't
+have one, use a piano, but not in a low register.
+        7). Wind noise. Patch provided for Proteus users. If you have no wind
+noise in your synthesizer, for God's sake, MUTE THIS TRACK!
+        8). SPD-8 drums (the Roland SPD-8 is a drum sound module with pads
+that you play with sticks and pedals). This is a consolidated drum track
+mapped (I think) like a Roland R8. Try it first. If it doesn't work, mute it,
+and then dial in drum individual sounds on the other tracks. But be sure that
+either the SPD 8 track OR the individual tracks are muted. You'll waste
+voices, otherwise.        
+        9). Continuous controllers: There is pitch bend in the sax track,
+which you probably don't want to remove. Controller 1 (mod wheel) occurs in
+the Nasty Saw track for tremolo. And there is some Controller 7 (volume)
+information on the Nasty Saw and Millenium tracks (I had to midi-mix those
+because I ran out of inputs on my board). 
+        10). Your homework: Make this better! The drums need a lot of work in
+the fills and -- clearly -- I didn't nail down the chord changes where the
+key shifts. Comments appreciated!
+
+                                                        Rick Stone
+                                                        76615,2155                                                
+        

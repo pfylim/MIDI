@@ -1,0 +1,23 @@
+Songtitel: 60er-jaren-medley ...........
+met:	Big bambo (herkenningsmelodie)
+	Gimme gimme good lovin'
+	Obladi oblada
+	Rivers of Babylon
+	Yesterday man
+	Pretty maid
+	Big bambo
+Auteur/Zanger: diverse...................
+Tempo: 128...............................
+Instrument     Midikanaal     Track
+-----------------------------------------
+Reset          Any            1
+Mute Gitaar    2              2
+Gitaar         3              3
+Bas            5              4
+Brass          6              5
+ODGitaar       7              6
+DSGitaar       8              7
+Piano          9              8 en 9
+Drums          10             10 
+Orgel          14             11
+Strings        16             12

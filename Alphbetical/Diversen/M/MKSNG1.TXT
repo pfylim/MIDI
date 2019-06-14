@@ -1,0 +1,17 @@
+Being a novice on midi, I finally finished my first song
+
+I used a Roland U-20 keyboard with Voyetra's Sequencer plus 
+working on an IBM PC.
+Using the part-play-mode, I was able to playback all channels
+at the same time.
+
+If there is any midi specialist also using the Roland U-20,                                                              
+he should contact me. I have some serious troubles with the
+U-20 and the sequencer.
+
+(I do admit, that I did not spend too much time reading the manuals.)
+
+This first little song of mine, was mainly "build" with the
+wonderfull features of the sequencer (transpose,copy,insert etc.)
+
+Markus Kronwitter  100136,660   Luxemburg

@@ -1,0 +1,134 @@
+                                                                
+                                                        
+001.mid  Fuer Elise Beethoven
+002.mid  Rustles of Spring, Op. 32, No. 3 Sinding
+003.mid  Jesu Joy of Man's Dedsiring Bach, J.S.
+004.mid  Clair de Lune Debussy
+005.mid  The Girl With The Flaxen Hair Debussy
+006.mid  Arabesque No. 1 in E Debussy
+007.mid  Arabesque No. 2 in G Debussy
+008.mid  Barcarolle, Op. 60 Chopin
+009.mid  Etude in G-flat, Op. 10, No. 5 (Black Key) Chopin
+010.mid  Ballade No. 1 in g, Op. 23 Chopin
+011.mid  Waltz in D-flat, Op. 64, No. 1 (Minute) Chopin
+012.mid  Etude in E, Op. 10, No. 3 Chopin
+013.mid  Nocturne in F-sharp, Op. 15, No. 2 Chopin
+014.mid  To the Spring, Op. 43, No. 6 Grieg
+015.mid  March of the Dwarfs, Op. 54, No. 3 Grieg
+016.mid  Wedding Day at Troldhaugen, Op. 65, No. 6 Grieg
+017.mid  Nocturne in E-flat, Op. 9, No. 2 Chopin
+018.mid  Nocturne in D-flat, Op. 27, No. 2 Chopin
+019.mid  Waltz in C-sharp, Op. 64, No. 2 Chopin
+020.mid  Waltz in E, Op. Posth. Chopin
+021.mid  Fantaisie - Impromptu in C-sharp, Op. 66 Chopin
+022.mid  Prelude (WTC Bk. 1, No. 21) Bach, J.S.
+023.mid  Fugue (WTC Bk. 1, No. 21) Bach, J.S.
+024.mid  Nocturne in B, Op. 32, No. 1 Chopin
+025.mid  Nocturne in G, Op. 37, No. 1 Chopin
+026.mid  Nocturne in E, Op. 62, No. 2 Chopin
+027.mid  Etude in A-flat, Op. 25, No. 1 Chopin
+028.mid  Etude in G-sharp, Op. 25, No. 6 Chopin
+029.mid  Etude in C-sharp, Op. 10, No. 12 (Revolutionary)       
+        Chopin
+030.mid  Etude in C-sharp, Op. 25, No. 7 (Cello) Chopin
+031.mid  Initermezzo in A, Op. 118, No. 2 Brahms
+032.mid  Ballade in g, Op. 118, No. 3 Brahms
+033.mid  Intermezzo in E-flat, Op. 118, No. 6 Brahms
+034.mid  Andante & Rondo Capriciosso, Op. 14 Mendelssohn
+035.mid  Gymnopedie No. 1 Satie, Eric
+036.mid  Gymnopedie No. 2 Satie, Eric
+037.mid  Gymnopedie No. 3 Satie, Eric
+038.mid  Waltz, Op. 39 No. 8 Tchaikovsky
+039.mid  Song of the Lark, Op. 39, No. 22 Tchaikovsky
+040.mid  Sweet Dream, Op. 39, No. 21 Tchaikovsky
+041.mid  Napolitan Song, Op. 39, No. 18 Tchaikovsky
+042.mid  Old Fench Song, Op. 39, No. 16 Tchaikovsky
+043.mid  Mazurka, Op. 39, No. 10  Tchaikovsky
+044.mid  Prelude in C-sharp, Op. 3, No. 2 Rachmaninov 
+045.mid  Waltz in A-flat, Op. 39, No. 15 Brahms
+046.mid  The Engulfed Cathedral Debussy
+047.mid  Reverie Debussy
+048.mid  To a Wild Rose, Op. 51 Mac Dowell, E
+049.mid  Prelude in A, Op. 28, No. 7 Chopin
+050.mid  Prelude in D-flat, Op. 28, No. 15 (Raindrop) Chopin
+051.mid  Fantasy in D, K. 397 Mozart
+052.mid  flight of the  Bumblebee Rachmaninov
+053.mid  Liebestraume No.1 Liszt
+054.mid  Liebestraume No.3 Liszt
+055.mid  Arabeske, Op 18 Schumann
+056.mid  Concert Etude No. 3 in D-flat (Un Sospiro)
+057.mid  Valse-Impromptu Liszt
+058.mid  On the Edge Of a Spring Liszt
+059.mid  Valse Oubliee Liszt
+060.mid  Jeux d'eau (fountains) Ravel
+061.mid  Minuet in G Bach, J.S.
+062.mid  Minuet in G (2) Bach, J.S.
+063.mid  Marsch in D Bach, J.S.
+064.mid  Musette in D Bach, J.S.
+065.mid  Romance in D-flat Sibelius
+066.mid  Pavane For A Dead Princess Ravel
+067.mid  Song Without Words, Op. 19, No. 1 Mendelssohn
+068.mid  Song Without Words, Op. 38, No. 2 Mendelssohn
+069.mid  Spinner's Song, Op. 67, No. 4 Mendelssohn
+070.mid  Song of Spring, Op. 62, No. 6 Mendelssohn
+071.mid  Song Without Words, Op. 85, No. 1 Mendelssohn
+072.mid  Solvejg's Song, Op. 52, No. 4 Grieg
+073.mid  Nocturne, Op. 54, No. 4 Grieg
+074.mid  Romanze in F-sharp, Op. 28, No. 2 Schumann
+075.mid  The Bird, Op. 43, No. 4 Grieg
+076.mid  I Love Thee Grieg
+077.mid  Minuet Boccherini
+078.mid  Tango Albeniz I
+079.mid  The Entertainer Joplin S.
+080.mid  Menuet on the Name of Haydn (sonatina) Ravel
+081.mid  Prelude in G. Op. 23, No. 5 Rachmaninov
+082.mid  Reflections in the Water Debussy
+083.mid  The Butterfly, Op. 43, No. 1 Grieg
+084.mid  Arietta, Op. 12, No. 1 Grieg
+085.mid  Elfin Dance, Op. 12 Grieg
+086.mid  Impromptu in F minor, Op. 31, No. 2 Faure
+087.mid  June (Barcarolle), Op. 37, No. 6 Tchaikovsky
+088.mid  Danse Debussy
+089.mid  Mazurka in F-sharp, Op. 6, No. 1 Chopin
+090.mid  Mazurka in B-flat, Op. 7, No. 1 Chopin
+091.mid  Mazurka in C-sharp, Op. 63, No. 3 Chopin
+092.mid  Mazurka in B, Op. 33, No.4 Chopin
+093.mid  Polonaise in A-flat, Op. 53 Chopin
+094.mid  Rhapsody in g, Op. 79, No. 2 Brahms
+095.mid  Intermezzo in E-flat, Op. 117, No. 1 Brahms
+096.mid  Intermezzo in B-flat, Op. 117, No. 2 Brahms
+097.mid  Intermezzo in C-sharp, Op. 117, No. 3 Brahms
+098.mid  Sonata in C, L.104, K.159 Scarlatti
+099.mid  Sonata in F Scarlatti
+100.mid  Sonata in D Scarlatti
+101.mid  Irish tune from Country Derry Grainger
+102.mid  Shepherd's Hey Grainger
+103.mid  Impromptu in E-flat, Op. 90, No. 2 Schubert
+104.mid  Impromptu in G-flat, Op. 90, No. 3 Schubert
+105.mid  Impromptu in A-flat minor, Op. 90, No. 4 Schubert
+106.mid  Polonaise in A, Op. 40, No. 1 (militairy) Chopin
+107.mid  Ballade in d, Op. 10, No. 1 Brahms
+108.mid  Prelude (WTC Bk. 1, No. 3) Bach, J.S.
+109.mid  Fugue (WTC Bk. 1, No. 3) Bach, J.S.
+110.mid  Prelude (WTC Bk. 1, No. 5) Bach, J.S.
+111.mid  Fugue (WTC Bk. 1, No. 5) Bach, J.S.
+112.mid  Prelude (WTC Bk. 1, No. 7) Bach, J.S.
+113.mid  Fugue (WTC Bk. 1, No. 7) Bach, J.S.
+114.mid  The Song's End, Op. 12, No. 8 Schumann
+115.mid  The Happy Farmer Schumann
+116.mid  Claire de Lune, Op. 46, No. 2 Faure
+117.mid  Prelude, Op. 12, No. 7 Prokofiev
+118.mid  Waltz in E-flat, Op. 18 Chopin
+119.mid  Wedding March Mendelssohn
+120.mid  Automne (Etude de Concert), Op. 35, No. 2 Chaminade
+121.mid  In a Monastery Garden Ketelbey
+122.mid  Ave Maria Liszt
+123.mid  Mephisto Waltz Liszt
+124.mid  Scherzo in C-sharp Chopin
+125.mid  Pomp & Circumstance No.1 Elgar
+126.mid  Oriental Granados
+127.mid  Paganini Etude No. 3 (La Campanella) Liszt
+128.mid  Hungarian Rhapsody No. 2 Liszt
+129.mid  Punch (Le Polichinelle) Villa-Lobos
+130.mid  Islamey Balakirev
+131.mid  Italian Concerto, Mvt.1) Bach, J.S.

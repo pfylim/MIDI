@@ -1,0 +1,122 @@
+
+
+MIDI FILES: M1.MID - M6.MID
+____________________________________________________________________
+
+ALL RIGHTS RESERVED
+
+PETER GLASSON,
+P.O. BOX 429,
+BURWOOD,
+NSW 2134,
+AUSTRALIA.
+
+FEEDBACK WELCOME
+
+COMPUSERVE #: 100036,560
+
+MELODIES & THEMES ORIGINAL EXCEPT WHERE NOTED BELOW
+____________________________________________________________________
+
+SOFTWARE: MUSICATOR GS
+          WINJAMMER
+
+SOUND CARD: ROLAND SCCC-1
+
+KEYBOARD: ROLAND EP-7
+
+COMPUTER: 386DX
+____________________________________________________________________
+
+FILE: M1.MCT
+
+DATE: JANUARY 8, 1993
+
+BYTES: 55308
+
+TRACK 1: CHOIR AAHS
+      2: HARP
+      3: SLOW STRINGS
+      4: TUBULAR BELL
+
+TIME: 3:07
+
+TITLE: SONG OF IRELAND
+____________________________________________________________________
+
+FILE: M2.MCT
+
+DATE: JANUARY 28, 1993
+
+BYTES: 45432
+
+TRACK 1: FLUTE
+      2: SLOW STRINGS
+      3: CLARINET
+      4: FRENCH HORN
+      5: HARP
+
+TIME: 6:31
+____________________________________________________________________
+
+FILE: M3.MCT
+
+DATE: JANUARY 26, 1993
+
+BYTES: 29282
+
+TRACK 1: TRUMPET
+      2: TROMBONE
+      3: TUBA
+      4: STRINGS
+      5: TIMPANI
+
+TIME: 1:19
+____________________________________________________________________
+
+FILE: M4.MCT
+
+DATE: JANUARY 26, 1993
+
+BYTES: 12917
+
+TRACK 1: VIBRAPHONE
+      2: ICE RAIN
+      3: FANTASIA
+
+TIME: 1:00
+____________________________________________________________________
+
+FILE: M5.MCT
+
+DATE: DECEMBER 19, 1992
+
+BYTES: 40371
+
+TRACK 1: SLOW STRINGS
+      2: SLOW STRINGS
+      3: SLOW STRINGS
+
+TIME: 7:46
+
+ORIGIN OF PENULTIMATE THEME: FRANZ LISZT'S ORGAN WORK, PROMETHEUS
+____________________________________________________________________
+
+FILE: M6.MCT
+
+DATE: JANUARY 26, 1993
+
+BYTES: 108383
+
+TRACK 1: STRINGS
+      2: FLUTE
+      3: TRUMPET
+      4: CLARINET
+      5: TROMBONE
+      6: FRENCH HORN
+      7: TUBA
+      8: TIMPANI
+      9: PICCOLO
+
+TIME: 3:26
+____________________________________________________________________

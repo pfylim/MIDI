@@ -1,0 +1,17 @@
+This work is the SYNTHETIC RAG, an original composiution by
+Charlie Kreitzberg.  This is created as a standard MIDI (.MID) file.  
+A Cakewalk version is available in this library under synthrag.exe
+
+The arrangement does not require any unusual instruments and
+should be easily ported to any synth.  I used a Proteus/2,
+Alesis D4 (percussion) and Yamaha pf85 (Piano).
+
+If you enjoy this rag, you might also want to look at HAWKINS.ZIP
+and LEVI.ZIP in the library.
+
+I look forward to your comments on the MIDI forum or by 
+E-MAIL (72447,1537)
+
+This composition is Copyright 1992. All Rights Reserved.
+
+

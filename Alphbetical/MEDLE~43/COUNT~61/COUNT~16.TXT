@@ -1,0 +1,28 @@
+Songtitel: Country Rock Medley...........
+Bevat de volgende songs:
+     - Yambalaya                 
+     - Down by the Riverside 
+     - Cotton Fields            
+     - This ole house
+     - Bonanza Theme
+     - Orange Blossom Special
+Auteur/Zanger: diverse...................
+Tempo:
+     - Maat 001: 172
+     - Maat 156: 110
+     - Maat 200: 145
+Instrument     Midikanaal     Track
+-----------------------------------------
+Reset          Any            1
+Melodie        1              2 en 3
+Warm Strings   3              4
+Strings        4              5 t/m 7
+Bas            5              8
+Gitaar         6              9
+DSGitaar       7              10
+El.Gitaar      8              11
+Brass          9              12
+Drums          10             13 t/m 19
+Harmonica      11             20
+Piano          12             21
+Banjo          13             22

@@ -1,0 +1,25 @@
+Songtitel: 60er-jaren-medley ...........
+met:	Big bambo (herkenningsmelodie)
+	Mendicino 
+	Candida 
+	Chirpy chirpy cheep cheep
+	Yummie yummie
+	Sha la la lee
+	Do wah diddy diddy
+	Na Na hey kiss him goodbeye
+	Big bambo
+Auteur/Zanger: diverse...................
+Tempo: 128...............................
+Instrument     Midikanaal     Track
+-----------------------------------------
+Reset          Any            1
+Mute Gitaar    2              2
+Gitaar         3              3
+Bas            5              4
+Brass          6              5
+ODGitaar       7              6
+DSGitaar       8              7
+Piano          9              8 en 9
+Drums          10             10 t/m 18
+Orgel          14             19
+Strings        16             20

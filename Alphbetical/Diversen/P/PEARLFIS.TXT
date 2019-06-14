@@ -1,0 +1,51 @@
+
+Duet from the Pearl Fishers
+---------------------------
+This packet contains two files as follows:-
+
+     PEARLMID.MID        Standard MIDI File. Single track.
+                         Channel 1 contains accompaniment,
+                         originally Harp. Channel 3 contains
+                         the tenor part and Channel 4 contains
+                         the baritone part; both parts should
+                         be choir. The normal playing speed is
+                         66 bpm.
+                         
+     PEARLFIS.G02        SY85 Seq All format. The song is
+                         stored in Song 1. Track 1 is the
+                         right-hand accompaniment and track 2
+                         is the left-hand accompaniment; both
+                         configured for Harp. Track 3 contains
+                         the tenor part and track 4 contains
+                         the baritone part; both configured
+                         for Choir. There is an unused rhythm
+                         track that was originally configured
+                         to provide an 8-beat per bar
+                         metronome. The volume on the rhythm
+                         track is shut off completely and
+                         should remain so unless you choose to
+                         program a proper rhythm track (N.B.
+                         the metronome effect uses a custom
+                         rhythm which is not supplied here).
+                         
+I am keen to exchange files with other SY85 owners, especially
+sound samples and waves since, so far, I have been unable to
+find a source of such files.
+
+Please note that the SY85 assigns a number to each song. If
+you already have a song number 2 on your disc then your should
+choose an empty song number and rename PEARLFIS.G02 to
+PEARLFIS.Gnn where nn is your chosen number.
+
+I hope you enjoy this version - all comments welcome.
+
+It was entered into the SY85 sequencer in step time mode from
+the music.
+
+Regards
+
+Steve.
+100014,1312
+
+
+
